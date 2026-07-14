@@ -1,0 +1,85 @@
+========================================
+        YOUR NAME - CV / RESUME
+========================================
+
+CONTACT INFORMATION
+----------------------------------------
+Email:    your.email@example.com
+Phone:    +254 700 000 000
+Location: Machakos, Kenya
+GitHub:   https://github.com/yourusername
+LinkedIn: https://linkedin.com/in/yourusername
+
+PROFILE
+----------------------------------------
+4th Year Computer Science Student at Machakos University.
+Passionate about building innovative solutions and learning new technologies.
+
+EDUCATION
+----------------------------------------
+Bachelor of Science in Computer Science
+Machakos University
+- 4th Year Student
+- Relevant Coursework: Data Structures & Algorithms, Database Management,
+  Web Development, Software Engineering, Cloud Computing
+
+PROGRAMMING LANGUAGES
+----------------------------------------
+- HTML          90%
+- CSS           85%
+- JavaScript    80%
+- Python        75%
+- Java          70%
+- React         75%
+
+ADDITIONAL SKILLS
+----------------------------------------
+- Git & GitHub
+- RESTful APIs
+- Database Management
+- Responsive Design
+- Problem Solving
+- Team Collaboration
+
+CERTIFICATES & ACHIEVEMENTS
+----------------------------------------
+1. Web Development Certification          - 2024
+2. Python Programming                     - 2023
+3. Data Structures & Algorithms           - 2023
+4. Cloud Computing Basics                 - 2024
+
+PROJECTS
+----------------------------------------
+1. Project Title 1
+   Technologies: React, TypeScript, Tailwind CSS
+   GitHub:  https://github.com/yourusername/project1
+   Live:    https://project1.example.com
+
+2. Project Title 2
+   Technologies: Python, Django, PostgreSQL
+   GitHub:  https://github.com/yourusername/project2
+   Live:    https://project2.example.com
+
+3. Project Title 3
+   Technologies: JavaScript, Node.js, MongoDB
+   GitHub:  https://github.com/yourusername/project3
+   Live:    https://project3.example.com
+
+4. Project Title 4
+   Technologies: React Native, Firebase, Redux
+   GitHub:  https://github.com/yourusername/project4
+   Live:    https://project4.example.com
+
+5. Project Title 5
+   Technologies: Java, Spring Boot, MySQL
+   GitHub:  https://github.com/yourusername/project5
+   Live:    https://project5.example.com
+
+6. Project Title 6
+   Technologies: Vue.js, Express, Docker
+   GitHub:  https://github.com/yourusername/project6
+   Live:    https://project6.example.com
+
+========================================
+  Generated from Animated CS Student Portfolio
+========================================
